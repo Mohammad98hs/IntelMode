@@ -1,0 +1,22 @@
+< ------ tag name
+
+Red coloe - Attributes
+
+Blue color - Value
+
+Black Color - Text
+
+
+//tagname[text()='textvalue']
+
+//mat-icon[text()='create_new_folder']
+
+//span[text()='Vermieter:in']´
+
+
+2--   //tagname[@attribute='value']
+
+
+
+
+//css - xpath 
